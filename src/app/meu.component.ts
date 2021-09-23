@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'meu',
   templateUrl: './meu.component.html'
 })
-export class HelloWorldNgIfComponent {
+export class MeuComponent {
   message = 'I\'m read only!';
   canEdit = false;
 
